@@ -1,10 +1,3 @@
-# Blinking-Pink-Heart
+点燃我, 温暖你里李峋的爱心代码  初始版![image](https://github.com/love99you/Pink-Heart/assets/118249630/03436b3e-b4c0-433c-b5d3-e4147b7d38bf)
 
-## Description
-<p> 
-  Replicated a similar pink heart from the firm <b>Lighter & Princes</b> using <b>HTML</b> or <b>Python</b>
-</p>
 
-<p> 
-  用了<b>HTML</b>和<b>Python</b>两个办法复刻了<b>点燃我, 温暖你里李峋</b>的"C"语言的爱心代码
-</p>
